@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[duj:home|Door43 (duj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-duj|d43-duj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-duj/archive/master.zip|d43-duj.zip]]
+
+**Recent Changes**
+{{changes>ns = duj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/duj|Ethnologue data]]
+
